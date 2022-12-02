@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Art App</string>
+
+    <!-- Buttons name -->
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+
+    <!-- Art text -->
+    <string name="one">Sun</string>
+    <string name="two">Hallway</string>
+    <string name="three">Apple</string>
+    <string name="four">Library</string>
+    <string name="five">Ceramics</string>
+</resources>
