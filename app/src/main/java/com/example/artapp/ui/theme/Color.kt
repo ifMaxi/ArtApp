@@ -14,3 +14,7 @@ val DeepOrangeG = Color(0xFFFFAB91)
 val OrangeG = Color(0xFFFFCC80)
 val AmberG = Color(0xFFFFE082)
 val YellowG = Color(0xFFFFF59D)
+
+// Button
+val BlueGrey = Color(0xFF90A4AE)
+val Red300 = Color(0xFFE57373)
