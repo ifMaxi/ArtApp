@@ -101,7 +101,7 @@ fun ArtStationScreen(modifier: Modifier = Modifier) {
             }
             Spacer(modifier = Modifier.width(20.dp))
             Button(
-                onClick = { if (showImage < 5) showImage += 1 },
+                onClick = { if (showImage < 4) showImage += 1 },
                 colors = ButtonDefaults.buttonColors(Red300),
                 elevation = ButtonDefaults.elevatedButtonElevation(8.dp),
                 modifier = modifier
