@@ -24,11 +24,6 @@ import com.example.artspace.R
 
 val fakeDB: FakeDatabase = FakeDatabase()
 
-@Composable
-fun ArtApp() {
-    ArtStationScreen()
-}
-
 /**
  * Show all the content in the screen
  */
@@ -123,6 +118,6 @@ fun ArtStationScreen(modifier: Modifier = Modifier) {
 @Composable
 fun ArtPreview() {
     ArtAppTheme {
-        ArtApp()
+        ArtStationScreen()
     }
 }
